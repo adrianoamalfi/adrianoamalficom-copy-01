@@ -1,27 +1,36 @@
-title: Stackbit Fresh Theme
+title: Adriano Amalfi - Personal Site
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
 palette: blue
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Adriano Amalfi
+  tagline: Personal Site
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; All rights reserved.'
+  content: '&copy; Adriano Amalfi All rights reserved.'
   links:
     - text: Made with Stackbit
       url: 'https://www.stackbit.com'
       new_window: true
+    - new_window: true
+      text: 'Github Hosting '
+      url: 'https://github.com'
+    - new_window: true
+      text: Netlify Devops
+      url: '#'
 sass:
   indentWidth: 4
   style: nested
   precision: 10
 plugins:
   - jekyll-menus
+collections:
+  posts:
+    permalink: '/posts/:title/'
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -36,6 +45,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
