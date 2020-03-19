@@ -6,7 +6,7 @@ palette: blue
 header:
   title: Adriano Amalfi
   tagline: Personal Site
-  profile_img: images/avatar.png
+  profile_img: /images/adriano.jpg
   bg: dark
   has_nav: true
   has_social: true
