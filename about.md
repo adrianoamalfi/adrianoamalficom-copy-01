@@ -1,20 +1,25 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+img_path: ''
 menus:
   main:
     title: About
     weight: 4
 layout: page
 ---
+I attended the Istituto Tecnico Commerciale "Cesare Pavese" in Caserta and shortly after I started my career in Information Technology.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+After some short experiences in small realities assembling computers and connecting modem & people to 32Kbit Internet, I got the chance for a short enterprise experience during the draft (at the Italian Air Force). 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I started first in a Consultancy Company based in Rome in 2001 and since 2006 I work on CDP where I am now the Head of the ICT Sourcing & Portfolio Unit, of course in the Information & Communication Technology Area.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+In these years in CDP I have dealt with IT Operations, End Users Services & Support, ICT Transformation Projects and I deepened the business issues especially in finance and banking. 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+I am passionate about emerging technology and how they can help the way we work and collaborate. 
+
+My hobbies range from photography or video editing to powerful cars and comfortable motorcycles. I like old cinema, new tv series, friend-private multi-player videogames and of course being on the sofa for hours.
+
+I experience the use of Home Automation, Programming, Artificial Intelligence and Data Analysis for fun.
 
 *Thank You for reading!*
