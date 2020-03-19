@@ -8,9 +8,9 @@ menus:
     weight: 4
 layout: page
 ---
-I attended the Istituto Tecnico Commerciale "Cesare Pavese" in **Caserta** and shortly after I started my career in Information Technology.
+I attended the Istituto **Tecnico Commerciale** "Cesare Pavese" in **Caserta** and shortly after I started my career in **Information Technology.**
 
-After some short experiences in small realities assembling computers and connecting modem & people Internet, I got the chance for a short enterprise experience during the draft (at the Italian Air Force). 
+After some **short experiences in a local startup**, assembling **custom computers** and **connecting people** to "new" Internet, I got the chance for a **enterprise experience** during the military service at the **Italian Air Force**. 
 
 I started first in a **Consultancy Company** based in **Rome** in **2001** and since **2006** I work on **Cassa depositi e prestiti** where I am now the **Head of the ICT Sourcing & Portfolio** Business Unit, of course in the **Information & Communication Technology Area**.
 
