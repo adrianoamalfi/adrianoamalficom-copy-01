@@ -1,7 +1,10 @@
 ---
 title: Catch-22 ed i 3 Paradossi Digitali
 date: 2019-05-26T08:10:35.848Z
+thumb_img_path: /images/0_1-uy6lozj4glj1s2.jpg
 content_img_path: /images/0_1-uy6lozj4glj1s2.jpg
+excerpt: >-
+  Cos'è il Catch-22? scoprilo in questo approfondimento e scopri perché è cosi attuale e quali similitudini ci sono con il mondo digitale
 layout: post
 ---
 Cos'è il Catch-22? scoprilo in questo approfondimento e scopri perché è cosi attuale e quali similitudini ci sono con il mondo digitale
