@@ -15,10 +15,14 @@ sections:
         url: /contact
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Since 1999 I've been working at the cutting edge of technology within the
+      **finance sector**. With an extensive list of **high profile projects**
+      I've been exposed to all areas of technologies, including the latest
+      **innovations** on different kind of project (System Development, IT
+      Infrastructure Implementation, Software and Hardware Deployment, Mobility
+      and Introduce Innovative Technology Tools in Business context). I try to
+      integrate my d**eep technical knowledge** with my **business
+      understanding** to create superior solutions for users.
   - type: postsblock
     title: Recent Posts
     section_id: recent-posts
