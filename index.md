@@ -5,8 +5,8 @@ sections:
     section_id: hero
     component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Technical Operations, Users Support Services, Digital & Transformation
+      Projects, Innovation & Strategy
   - type: contentblock
     title: About
     section_id: about
